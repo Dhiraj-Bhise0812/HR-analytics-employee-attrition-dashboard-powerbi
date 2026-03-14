@@ -1,4 +1,4 @@
-#HR Analytics: Employee Attrition Dashboard
+# HR Analytics: Employee Attrition Dashboard
 
 ### Project Overview
 This project involves the creation of an interactive HR Analytics Dashboard designed to track
